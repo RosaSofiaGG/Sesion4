@@ -6,7 +6,7 @@ class Program
     {
         // Declaración de variables
         int edad = 20;
-        string nombre = "Giselle";
+        string nombre = "Sofia";
         bool tieneLicencia = true;
 
         // Condición 1: Edad
