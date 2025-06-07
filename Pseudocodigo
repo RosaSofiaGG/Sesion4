@@ -1,0 +1,18 @@
+Inicio
+
+Definir edad como entero y asignar un valor (ej. 20)
+Definir nombre como cadena (ej. "Sofia")
+Definir tieneLicencia como booleano (ej. true)
+
+
+Si edad es mayor o igual a 18
+    Mostrar: "<nombre> puede conducir"
+Sino
+    Mostrar: "<nombre> es menor de edad"
+
+Si tieneLicencia es verdadero
+    Mostrar: "<nombre> tiene licencia"
+Sino
+    Mostrar: "<nombre> no tiene licencia"
+
+Fin
